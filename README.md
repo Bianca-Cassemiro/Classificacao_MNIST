@@ -8,7 +8,7 @@ Para esta atividade é necessário treinar e utilizar uma rede neural convolucio
 
 1) Crie uma VenV 
 
-2) Intale as dependências necessárias
+2) Instale as dependências necessárias
 
 3) Navegue até o arquivo do notebook e execute as células. 
 
